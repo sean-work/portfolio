@@ -1267,8 +1267,8 @@ nav {
   .lightbox-content .grid__image-caption {
     font-family: [object Object], [object Object]; }
 
-#lightbox-wrap,
-#lightbox-inner-wrap {
+.lightbox-wrap,
+.lightbox-inner-wrap {
   height: 100%; }
 
 .grid__image-caption,
