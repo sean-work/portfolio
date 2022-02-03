@@ -410,7 +410,7 @@ body {
 html {
   background-color: #242424;
   /* stylelint-disable function-url-quotes */
-  background-image: url("file:///E:/Users/Sean/Documents/Techy/Website/86460b24-659c-46e0-ae1a-1759cee1343f_rwc_8x0x1270x720x4096.png?h=b3de52d2253ade82a35072774dc6e9f5");
+  background-image: url("/86460b24-659c-46e0-ae1a-1759cee1343f_rwc_8x0x1270x720x4096.png?h=b3de52d2253ade82a35072774dc6e9f5");
   /* stylelint-enable function-url-quotes */
   background-position: center center;
   background-repeat: repeat;
@@ -427,7 +427,7 @@ html {
 @media (max-width: 768px) {
   html:after {
     /* stylelint-disable function-url-quotes */
-    background-image: url("file:///E:/Users/Sean/Documents/Techy/Website/86460b24-659c-46e0-ae1a-1759cee1343f_rwc_8x0x1270x720x4096.png?h=b3de52d2253ade82a35072774dc6e9f5");
+    background-image: url("/86460b24-659c-46e0-ae1a-1759cee1343f_rwc_8x0x1270x720x4096.png?h=b3de52d2253ade82a35072774dc6e9f5");
     /* stylelint-enable function-url-quotes */
     content: '';
     display: block;
@@ -838,7 +838,7 @@ nav .link-title:last-child {
 .site-header {
   background-color: #222;
   /* stylelint-disable function-url-quotes */
-  background-image: url("file:///E:/Users/Sean/Documents/Techy/Website/278bbfa2-69ec-4453-92da-599cbbe70cb6_rwc_0x0x1280x814x4096.jpg?h=4d1a4132d85fadbbb845cbf5260939ff");
+  background-image: url("/278bbfa2-69ec-4453-92da-599cbbe70cb6_rwc_0x0x1280x814x4096.jpg?h=4d1a4132d85fadbbb845cbf5260939ff");
   /* stylelint-enable function-url-quotes */
   background-position: center center;
   background-repeat: no-repeat;
